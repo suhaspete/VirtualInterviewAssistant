@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+numpy
+google-generativeai
+python-dotenv
+scikit-learn
+sqlite3
